@@ -1,7 +1,6 @@
 site_name: Call of Duty Black Ops III Mini Wiki
-site_url: https://mydomain.org/mysite
 
-# site_url: https://autumnnippert.github.io/cod_miniwiki/
+site_url: https://autumnnippert.github.io/cod_miniwiki/
 theme:
   name: material
   # logo: media/logo.png
