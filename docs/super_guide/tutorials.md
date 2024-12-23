@@ -1,13 +1,10 @@
 # Tutorials
 
-HAVING RADIANT OPEN USES ABOUT 8GB OF RAM
-
+## Basics
 * [Mod Tools Basics](https://www.youtube.com/watch?v=tj7guP_ZeUI)
 * [Fixing "Clientfield Mismatch" Error](https://www.youtube.com/watch?v=PPF-Nl-J0to)
-* [Fixing "BrushModel" Error](https://www.youtube.com/watch?v=aKqQy01AIno)
-* [Templates](https://www.youtube.com/watch?v=Deo_BZAZW3w)
-* [Gameplay Standards](https://www.youtube.com/watch?v=VnwFgB28LrA)
-* [Port WaW Custom Maps](https://www.youtube.com/watch?v=LilK4xPfsXQ)
+* [Introduction to Radiant](https://www.youtube.com/watch?v=VY_WfL_1Ras)
+* [Setting Up Sublime for GSC](https://www.youtube.com/watch?v=vFr9DFstF9w) if you script using sublime.
 
 ## Mapping - Environment Design
 * [Introduction to Radiant](https://www.youtube.com/watch?v=VY_WfL_1Ras)
@@ -100,3 +97,9 @@ HAVING RADIANT OPEN USES ABOUT 8GB OF RAM
 ## Finishing Touches
 * [Overall Ending Lighting - Lookup/Look Up Table (LUT)](https://www.youtube.com/watch?v=qdMpt3lpFic)
 * [Custom Loading & Mission Briefing Screen](https://www.youtube.com/watch?v=NcPNAU6pd18)
+
+## Misc
+* [Fixing "BrushModel" Error](https://www.youtube.com/watch?v=aKqQy01AIno)
+* [Templates](https://www.youtube.com/watch?v=Deo_BZAZW3w)
+* [Gameplay Standards](https://www.youtube.com/watch?v=VnwFgB28LrA)
+* [Port WaW Custom Maps](https://www.youtube.com/watch?v=LilK4xPfsXQ)

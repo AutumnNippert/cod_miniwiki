@@ -1,8 +1,7 @@
 site_name: Call of Duty Black Ops III Mini Wiki
 site_url: https://mydomain.org/mysite
 
-dev_addr: 0.0.0.0:12345
-site_url: https://autumnnippert.github.io/cod_miniwiki/
+# site_url: https://autumnnippert.github.io/cod_miniwiki/
 theme:
   name: material
   # logo: media/logo.png
@@ -52,5 +51,15 @@ theme:
 
 markdown_extensions:
     - attr_list
+
+nav:
+    - Home: 'index.md'
+    - Super Guide:
+      - Getting Started: 'super_guide/start.md'
+      - Additional Support: 'super_guide/support.md'
+      - Tutorials: 'super_guide/tutorials.md'
+      - Radiant Black - Keyboard Shortcuts: 'super_guide/radiant.md'
+    - Notifies: 'notifies.md'
+    - Callbacks: 'callbacks.md'
 
 repo_url: https://github.com/AutumnNippert/cod_miniwiki

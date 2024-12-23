@@ -1,5 +1,4 @@
 # Radiant Black - Keyboard Shortcuts
-(from Byte on Discord, some extras added by myself and suggestions)
 
 ## XY View Window
 * ` - Grid .5
@@ -46,6 +45,20 @@
 * Arrow Left - Pivot Left
 * Arrow Righ - Pivot Right
 
+## Windows
+* B - Entity Browser
+* F - Filter Window
+* G - gVertex Color/Alpha Editing
+* K - Brings Up Colors on Selected Object
+* L - Layers
+* M - Models
+* N - Entity Info
+* O - Output
+* P - Preferences
+* S - Surface Inspector
+* T - Textures
+* Y - Advanced Patch Editing Options
+
 ## Misc
 * I - Select All
 * H - Hide
@@ -63,16 +76,6 @@
 * Ctrl-Shift-X - Unweld Vertices
 * Ctrl-I - Invert Texture
 
-## Windows
-* B - Entity Browser
-* F - Filter Window
-* G - gVertex Color/Alpha Editing
-* K - Brings Up Colors on Selected Object
-* L - Layers
-* M - Models
-* N - Entity Info
-* O - Output
-* P - Preferences
-* S - Surface Inspector
-* T - Textures
-* Y - Advanced Patch Editing Options
+## Notes
+* (from Byte on Discord, some extras added by myself and suggestions)
+* Having Radiant open uses about 8GB of RAM
