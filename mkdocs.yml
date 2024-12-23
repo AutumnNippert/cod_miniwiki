@@ -1,0 +1,56 @@
+site_name: Call of Duty Black Ops III Mini Wiki
+site_url: https://mydomain.org/mysite
+
+dev_addr: 0.0.0.0:12345
+# site_url: https://autumnnippert.github.io/manto_docs/
+theme:
+  name: material
+  # logo: media/logo.png
+
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  features:
+    - navigation.expand
+    - navigation.instant
+    - navigation.path
+    - navigation.indexes
+
+    - toc.follow
+
+    - search.suggest
+    - search.highlight
+
+  plugins:
+      - search
+      - awesome-pages
+
+# extra_css:
+#   - stylesheets/extra.css
+# extra_javascript:
+#   - javascripts/extra.js
+
+markdown_extensions:
+    - attr_list
+
+# repo_url: https://github.com/AutumnNippert/manto_docs
