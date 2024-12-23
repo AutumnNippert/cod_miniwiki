@@ -2,7 +2,7 @@ site_name: Call of Duty Black Ops III Mini Wiki
 site_url: https://mydomain.org/mysite
 
 dev_addr: 0.0.0.0:12345
-# site_url: https://autumnnippert.github.io/manto_docs/
+site_url: https://autumnnippert.github.io/cod_miniwiki/
 theme:
   name: material
   # logo: media/logo.png
@@ -53,4 +53,4 @@ theme:
 markdown_extensions:
     - attr_list
 
-# repo_url: https://github.com/AutumnNippert/manto_docs
+repo_url: https://github.com/AutumnNippert/cod_miniwiki
