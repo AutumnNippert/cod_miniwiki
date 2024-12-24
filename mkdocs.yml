@@ -3,6 +3,7 @@ site_name: Call of Duty Black Ops III Mini Wiki
 site_url: https://autumnnippert.github.io/cod_miniwiki/
 theme:
   name: material
+  custom_dir: overrides
   # logo: media/logo.png
 
   palette:

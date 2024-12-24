@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Getting Started
 ## Author's Note
 This is from a deleted user on r/CODZombies [here](https://www.reddit.com/r/CODZombies/comments/58nbvq/black_ops_3_mod_tools_super_guide/).

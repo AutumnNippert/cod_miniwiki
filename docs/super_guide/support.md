@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Additional Support with Modding
 
 ## Wiki's

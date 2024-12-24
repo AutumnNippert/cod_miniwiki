@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Radiant Black - Keyboard Shortcuts
 
 ## XY View Window
