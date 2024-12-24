@@ -41,7 +41,6 @@ theme:
 
   plugins:
       - search
-      - awesome-pages
 
 # extra_css:
 #   - stylesheets/extra.css
